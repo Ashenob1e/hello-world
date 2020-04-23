@@ -1,1 +1,3 @@
 The text is uesd to learn basic git operations
+
+These two lines uesd to learn to sovle conflict
